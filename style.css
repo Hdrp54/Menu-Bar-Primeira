@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    background: #23232e;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    height: 5vh;
+}
+
+.logo {
+    margin-left: 100px;
+    display: flex;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.pesquisa {
+    width: 100px;
+    height: 4vh;
+}
+
+ul {
+    margin-right: 100px;
+}
+
+ul a {
+    color: white;
+    margin-left: 20px;
+    font-size: 20px;
+    text-decoration: none;
+}
